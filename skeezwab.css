@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+}
+.title
+{
+    color: white;
+    font-family: 'Nabla','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: gold;
+}
+.center
+{
+    text-align: center;
+    list-style-position: inside;
+}
+li
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
