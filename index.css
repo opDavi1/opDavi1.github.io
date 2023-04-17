@@ -1,0 +1,70 @@
+
+.title
+{
+    color: white;
+    font-family: 'Nabla','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: gold;
+}
+body
+{
+    background-color: black;
+}
+.welcomegif
+{
+    text-align: center; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    border: 2px solid white;
+    width: 400px;
+}
+h2
+{  
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.25rem;
+    text-align: center;
+    margin-top: 75px;
+    text-decoration: underline;
+}
+.links
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+.links a img
+{
+ border: 3px solid red;
+}
+.discord
+{
+    color: cyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.centerpad
+{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+ad
+{
+    display: inline;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+.copyright
+{
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+}
